@@ -531,8 +531,8 @@ $title = "Job List";
 									<div class="col-sm-6 col-md-4">
 									
 										<div class="footer-about-us">
-											<h5 class="footer-title">About Nightingale Jobs</h5>
-											<p>Nightingale Jobs is a job portal, online job management system developed by Nathaniel Nkrumah for his project in february 2018.</p>
+											<h5 class="footer-title">About </h5>
+											<p>Partima (Part Time Student) is a web-based application designed to provide a job vacancy and registration information system, specifically aimed at students seeking part-time employment. This application aims to bridge the gap between students and companies or employers offering part-time jobs that match students' schedules and skills.</p>
 										
 										</div>
 
@@ -558,11 +558,11 @@ $title = "Job List";
 							
 							<div class="col-sm-12 col-md-3 mt-30-sm">
 							
-								<h5 class="footer-title">Nightingale Jobs Contact</h5>
+								<h5 class="footer-title">Partima Contact</h5>
 								
-								<p>Address : Takoradi, School Junction PO.BOX AX40</p>
-								<p>Email : <a href="mailto:nightingale.nath2@gmail.com">nightingale.nath2@gmail.com</a></p>
-								<p>Phone : <a href="tel:+233546607474">+233 546 607 474</a></p>
+								<p>Address : Pangkalpinang,Sumatera Selatan Indonesia</p>
+								<p>Email : <a href="Partimaparttimemahasiswa@gmail.com">Partimaparttimemahasiswa@gmail.com</a></p>
+								<p>Phone : <a href="tel: +85788050740">+85788050740</a></p>
 								
 
 							</div>
@@ -582,14 +582,14 @@ $title = "Job List";
 						
 							<div class="col-sm-4 col-md-4">
 					
-								<p class="copy-right">&#169; Copyright <?php echo date('Y'); ?> Nightingale Vision Software</p>
+								<p class="copy-right">&#169; <?php echo date('Y'); ?> Partima(Partimaparttimemahasiswa)</p>
 								
 							</div>
 							
 							<div class="col-sm-4 col-md-4">
 							
 								<ul class="bottom-footer-menu">
-									<li><a >Developed by Nathaniel Nkrumah</a></li>
+									<li><a ></a></li>
 								</ul>
 							
 							</div>
